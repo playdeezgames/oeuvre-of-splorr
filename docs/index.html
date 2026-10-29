@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Oeuvre of SPLORR!!</title>
+<meta name="description" content="A poor man's itch page: the games of SPLORR!! in one place.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<h1>Oeuvre of SPLORR!!</h1>
+<p>A poor man's itch page, because there is a blizzard of things made.</p>
+</header>
+<main>
+<div class="controls">
+<input id="q" type="search" placeholder="Search titles" aria-label="Search titles">
+<label>Sort <select id="sort"><option value="newest">Newest first</option><option value="oldest">Oldest first</option><option value="title">Title A to Z</option><option value="file">List order</option></select></label>
+<button id="clear" type="button">Clear</button> <span id="count"></span>
+</div>
+<div id="chips" class="chips" role="group" aria-label="Filter by tag"></div>
+<ul id="games" class="grid"><li>Loading games&hellip;</li></ul>
+<noscript><p>This page needs JavaScript to list the games. Everything is also at <a href="https://thegrumpygamedev.itch.io/">itch.io</a>.</p></noscript>
+</main>
+<footer>
+<p id="links"></p>
+<p>This page was built by an AI agent (Claude Code) at the author's direction. The games themselves carry their own disclosures on their pages.</p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

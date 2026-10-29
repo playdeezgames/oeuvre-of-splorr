@@ -1,0 +1,219 @@
+{
+ "itch_profile": "https://thegrumpygamedev.itch.io/",
+ "github": "https://github.com/playdeezgames",
+ "games": [
+  {
+   "title": "Oh No, Thello!",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/oh-no-thello/",
+   "blurb": "Reversi meets Minesweeper.",
+   "tags": [
+    "board game",
+    "puzzle",
+    "reversi",
+    "minesweeper"
+   ]
+  },
+  {
+   "title": "Pyramid of Ahraxis",
+   "year": 2023,
+   "itch": "https://thegrumpygamedev.itch.io/pyramid-of-ahraxis",
+   "play": "https://playdeezgames.github.io/PyramidOfAhraxis/",
+   "blurb": "",
+   "tags": [
+    "dungeon",
+    "adventure",
+    "tic-80 origin"
+   ]
+  },
+  {
+   "title": "Table Turners of SPLORR!!",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/table-turners-of-splorr",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "puzzle",
+    "jam"
+   ]
+  },
+  {
+   "title": "The End of the World Was Nice",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/the-end-of-the-world-was-nice",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "wholesome",
+    "touch friendly",
+    "20 second jam"
+   ]
+  },
+  {
+   "title": "Wandermaze",
+   "year": 2023,
+   "itch": "https://thegrumpygamedev.itch.io/wandermaze",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "maze",
+    "puzzle",
+    "tic-80 origin"
+   ]
+  },
+  {
+   "title": "T!ts UUp!!",
+   "year": 2023,
+   "itch": "https://thegrumpygamedev.itch.io/tits-uup",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "roguelike",
+    "goblins"
+   ]
+  },
+  {
+   "title": "Turn Left at the Cow",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/turn-left-at-the-cow",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "driving",
+    "joke game",
+    "jam"
+   ]
+  },
+  {
+   "title": "Robokitteh of SPLORR!!",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/robokitteh-of-splorr",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "turn-based",
+    "cats",
+    "jam"
+   ]
+  },
+  {
+   "title": "Roomba Rights of SPLORR!!",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/roomba-rights-of-splorr",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "turn-based",
+    "hidden information",
+    "jam"
+   ]
+  },
+  {
+   "title": "Gwen's Peregrination II",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/gwens-peregrination-ii",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "text adventure",
+    "turn-based",
+    "journey",
+    "jam"
+   ]
+  },
+  {
+   "title": "Beaver Hunters of SPLORR!!",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/beaver-hunters-of-splorr",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "incremental",
+    "hunting"
+   ]
+  },
+  {
+   "title": "Freedom Haters of SPLORR!!",
+   "year": 2023,
+   "itch": "https://thegrumpygamedev.itch.io/freedom-haters-of-splorr",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "satire",
+    "space",
+    "trading"
+   ]
+  },
+  {
+   "title": "Murder Hobo of SPLORR!!",
+   "year": 2024,
+   "itch": "https://thegrumpygamedev.itch.io/murder-hobo-of-splorr",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "idle",
+    "clicker"
+   ]
+  },
+  {
+   "title": "Feretory of SPLORR!!",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/feretory-of-splorr",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "roguelike",
+    "maze",
+    "turn-based"
+   ]
+  },
+  {
+   "title": "Fortune Hunter of SPLORR!!",
+   "year": 2021,
+   "itch": "https://thegrumpygamedev.itch.io/fortune-hunter-of-splorr",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "roguelike",
+    "maze",
+    "gamepad"
+   ]
+  },
+  {
+   "title": "Shark Attackers of SPLORR!!",
+   "year": 2025,
+   "itch": "https://thegrumpygamedev.itch.io/shark-attackers-of-splorr",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "text adventure",
+    "turn-based",
+    "jam"
+   ]
+  },
+  {
+   "title": "Check Yer Butthole",
+   "year": 2025,
+   "itch": "https://thegrumpygamedev.itch.io/check-yer-btthole",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "idle",
+    "clicker",
+    "humor"
+   ]
+  },
+  {
+   "title": "How Am I Still Waiting for the Bus?",
+   "year": 2024,
+   "itch": "https://thegrumpygamedev.itch.io/how-am-i-still-waiting-for-the-bus",
+   "play": null,
+   "blurb": "",
+   "tags": [
+    "turn-based",
+    "text mode"
+   ]
+  }
+ ]
+}
