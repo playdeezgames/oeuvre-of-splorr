@@ -20,3 +20,8 @@ a{color:var(--acc)}
 .chips button,.tags button{background:none;color:var(--mute);border:1px solid var(--line);border-radius:999px;padding:1px 10px;font:inherit;font-size:.8rem;cursor:pointer}
 .chips button[aria-pressed=true]{background:var(--acc);color:var(--bg);border-color:var(--acc)}
 .tags{display:flex;gap:4px;flex-wrap:wrap;margin-top:.5rem}
+.grid h2{display:flex;justify-content:space-between;gap:8px}
+.star{background:none;border:0;color:var(--acc);font-size:1.3rem;line-height:1;cursor:pointer;padding:0}
+.pic{margin:-12px -14px 10px;aspect-ratio:4/3;overflow:hidden;border-radius:8px 8px 0 0;background:#000}
+.pic img{width:100%;height:100%;object-fit:cover;display:block;image-rendering:auto}
+.pic.noimg{display:flex;align-items:center;justify-content:center;text-align:center;padding:12px;color:var(--mute);background:var(--line)}

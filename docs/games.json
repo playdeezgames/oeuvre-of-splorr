@@ -13,7 +13,8 @@
     "puzzle",
     "reversi",
     "minesweeper"
-   ]
+   ],
+   "img": "img/oh-no-thello.png"
   },
   {
    "title": "Pyramid of Ahraxis",
@@ -25,7 +26,8 @@
     "dungeon",
     "adventure",
     "tic-80 origin"
-   ]
+   ],
+   "img": "img/pyramid-of-ahraxis.png"
   },
   {
    "title": "Table Turners of SPLORR!!",
@@ -36,7 +38,8 @@
    "tags": [
     "puzzle",
     "jam"
-   ]
+   ],
+   "img": "img/table-turners.png"
   },
   {
    "title": "The End of the World Was Nice",
@@ -48,7 +51,8 @@
     "wholesome",
     "touch friendly",
     "20 second jam"
-   ]
+   ],
+   "img": "img/end-of-the-world.png"
   },
   {
    "title": "Wandermaze",
@@ -60,7 +64,8 @@
     "maze",
     "puzzle",
     "tic-80 origin"
-   ]
+   ],
+   "img": "img/wandermaze.png"
   },
   {
    "title": "T!ts UUp!!",
@@ -71,7 +76,8 @@
    "tags": [
     "roguelike",
     "goblins"
-   ]
+   ],
+   "img": "img/tits-uup.png"
   },
   {
    "title": "Turn Left at the Cow",
@@ -83,7 +89,8 @@
     "driving",
     "joke game",
     "jam"
-   ]
+   ],
+   "img": "img/turn-left-at-the-cow.png"
   },
   {
    "title": "Robokitteh of SPLORR!!",
@@ -95,7 +102,8 @@
     "turn-based",
     "cats",
     "jam"
-   ]
+   ],
+   "img": "img/robokitteh.png"
   },
   {
    "title": "Roomba Rights of SPLORR!!",
@@ -107,7 +115,8 @@
     "turn-based",
     "hidden information",
     "jam"
-   ]
+   ],
+   "img": "img/roomba-rights.png"
   },
   {
    "title": "Gwen's Peregrination II",
@@ -120,7 +129,8 @@
     "turn-based",
     "journey",
     "jam"
-   ]
+   ],
+   "img": "img/gwens-peregrination-ii.png"
   },
   {
    "title": "Beaver Hunters of SPLORR!!",
@@ -131,7 +141,8 @@
    "tags": [
     "incremental",
     "hunting"
-   ]
+   ],
+   "img": "img/beaver-hunters.png"
   },
   {
    "title": "Freedom Haters of SPLORR!!",
@@ -143,7 +154,8 @@
     "satire",
     "space",
     "trading"
-   ]
+   ],
+   "img": "img/freedom-haters.png"
   },
   {
    "title": "Murder Hobo of SPLORR!!",
@@ -154,7 +166,8 @@
    "tags": [
     "idle",
     "clicker"
-   ]
+   ],
+   "img": "img/murder-hobo.png"
   },
   {
    "title": "Feretory of SPLORR!!",
@@ -166,7 +179,8 @@
     "roguelike",
     "maze",
     "turn-based"
-   ]
+   ],
+   "img": "img/feretory.png"
   },
   {
    "title": "Fortune Hunter of SPLORR!!",
@@ -178,7 +192,8 @@
     "roguelike",
     "maze",
     "gamepad"
-   ]
+   ],
+   "img": "img/fortune-hunter.png"
   },
   {
    "title": "Shark Attackers of SPLORR!!",
@@ -190,7 +205,8 @@
     "text adventure",
     "turn-based",
     "jam"
-   ]
+   ],
+   "img": "img/shark-attackers.png"
   },
   {
    "title": "Check Yer Butthole",
@@ -213,7 +229,8 @@
    "tags": [
     "turn-based",
     "text mode"
-   ]
+   ],
+   "img": "img/bus-anticipator.png"
   }
  ]
 }

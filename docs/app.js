@@ -1,4 +1,7 @@
-const state={games:[],tags:new Set(),sort:'newest',q:''};
+const KEY='oeuvre-favorites';
+const favs=(()=>{try{return new Set(JSON.parse(localStorage.getItem(KEY)||'[]'))}catch(e){return new Set()}})();
+function saveFavs(){try{localStorage.setItem(KEY,JSON.stringify([...favs]))}catch(e){}}
+const state={games:[],tags:new Set(),sort:'newest',q:'',onlyFavs:false};
 const sorters={
   newest:(a,b)=>b.year-a.year||a.title.localeCompare(b.title),
   oldest:(a,b)=>a.year-b.year||a.title.localeCompare(b.title),
@@ -7,12 +10,21 @@ const sorters={
 const $=id=>document.getElementById(id);
 function render(){
   const ul=$('games');ul.textContent='';
-  let list=state.games.filter(g=>[...state.tags].every(t=>g.tags.includes(t))&&g.title.toLowerCase().includes(state.q));
+  let list=state.games.filter(g=>[...state.tags].every(t=>g.tags.includes(t))&&g.title.toLowerCase().includes(state.q)&&(!state.onlyFavs||favs.has(g.title)));
   const s=sorters[state.sort];if(s)list=[...list].sort(s);
   $('count').textContent=list.length+' of '+state.games.length;
   for(const g of list){
     const li=document.createElement('li');
-    const h=document.createElement('h2');h.textContent=g.title;li.append(h);
+    const pic=document.createElement('div');pic.className='pic';
+    if(g.img){const im=document.createElement('img');im.src=g.img;im.alt='A screenshot of '+g.title;im.loading='lazy';im.width=480;im.height=360;pic.append(im)}
+    else{pic.classList.add('noimg');pic.textContent=g.title}
+    li.append(pic);
+    const h=document.createElement('h2');h.textContent=g.title;
+    const st=document.createElement('button');st.type='button';st.className='star';
+    const on=favs.has(g.title);st.textContent=on?'\u2605':'\u2606';st.setAttribute('aria-pressed',on);
+    st.setAttribute('aria-label',(on?'Remove favorite: ':'Favorite: ')+g.title);
+    st.onclick=()=>{favs.has(g.title)?favs.delete(g.title):favs.add(g.title);saveFavs();render()};
+    h.append(st);li.append(h);
     const y=document.createElement('div');y.className='year';y.textContent=g.year;li.append(y);
     if(g.blurb){const p=document.createElement('p');p.className='blurb';p.textContent=g.blurb;li.append(p)}
     const tg=document.createElement('div');tg.className='tags';
@@ -33,7 +45,8 @@ fetch('games.json').then(r=>r.json()).then(d=>{
   for(const t of all){const c=document.createElement('button');c.type='button';c.textContent=t;c.onclick=()=>toggle(t);$('chips').append(c)}
   $('sort').onchange=e=>{state.sort=e.target.value;render()};
   $('q').oninput=e=>{state.q=e.target.value.toLowerCase();render()};
-  $('clear').onclick=()=>{state.tags.clear();$('q').value='';state.q='';render()};
+  $('favs').onchange=e=>{state.onlyFavs=e.target.checked;render()};
+  $('clear').onclick=()=>{state.onlyFavs=false;$('favs').checked=false;state.tags.clear();$('q').value='';state.q='';render()};
   $('links').innerHTML='<a href="'+d.itch_profile+'">All on itch.io</a> &middot; <a href="'+d.github+'">GitHub</a>';
   render();
 }).catch(()=>{$('games').textContent='Could not load the game list.'});
