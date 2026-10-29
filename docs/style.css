@@ -25,3 +25,5 @@ a{color:var(--acc)}
 .pic{margin:-12px -14px 10px;aspect-ratio:4/3;overflow:hidden;border-radius:8px 8px 0 0;background:#000}
 .pic img{width:100%;height:100%;object-fit:cover;display:block;image-rendering:auto}
 .pic.noimg{display:flex;align-items:center;justify-content:center;text-align:center;padding:12px;color:var(--mute);background:var(--line)}
+.grid li.hidden{opacity:.55}
+.btns .hide{margin-left:auto;background:none;color:var(--mute);border:1px solid var(--line);border-radius:6px;padding:2px 10px;font:inherit;cursor:pointer}
