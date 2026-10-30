@@ -245,6 +245,19 @@
     "wholesome"
    ],
    "img": "img/go-get-the-thing.png"
+  },
+  {
+   "title": "JetLag",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/jetlag/",
+   "blurb": "A jet climbs the screen. Steer between the blocks, grab coins, bank them before you crash. Long runs score big.",
+   "tags": [
+    "endless runner",
+    "arcade",
+    "gamepad"
+   ],
+   "img": "img/jetlag.png"
   }
  ]
 }
