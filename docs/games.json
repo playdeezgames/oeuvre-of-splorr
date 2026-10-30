@@ -231,6 +231,20 @@
     "text mode"
    ],
    "img": "img/bus-anticipator.png"
+  },
+  {
+   "title": "Go Get the Thing!",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/go-get-the-thing",
+   "play": "https://playdeezgames.github.io/go-get-the-thing/",
+   "blurb": "Run around a room, get the Thing, spend the coins, get faster. Then prestige.",
+   "tags": [
+    "incremental",
+    "idle",
+    "gamepad",
+    "wholesome"
+   ],
+   "img": "img/go-get-the-thing.png"
   }
  ]
 }
