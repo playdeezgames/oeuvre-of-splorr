@@ -109,8 +109,8 @@
    "title": "Roomba Rights of SPLORR!!",
    "year": 2026,
    "itch": "https://thegrumpygamedev.itch.io/roomba-rights-of-splorr",
-   "play": null,
-   "blurb": "",
+   "play": "https://playdeezgames.github.io/tggd_jamference2/",
+   "blurb": "Collect the baskets before the vacuum finds you. Its route is hidden, so you have to guess.",
    "tags": [
     "turn-based",
     "hidden information",
