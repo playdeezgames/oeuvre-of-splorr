@@ -297,6 +297,19 @@
     "alakajam"
    ],
    "img": "img/chaotic-space-mappers.png"
+  },
+  {
+   "title": "Rats in the Cellar",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/DiscordSandbox/",
+   "blurb": "Kill ten rats before dawn. Lure them out, read the danger line, and know when to climb back up to the tavern. An example world for a card engine.",
+   "tags": [
+    "card game",
+    "turn-based",
+    "tech demo"
+   ],
+   "img": "img/rats-in-the-cellar.png"
   }
  ]
 }
