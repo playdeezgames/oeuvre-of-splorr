@@ -284,6 +284,19 @@
     "deadpan"
    ],
    "img": "img/nursing-home-cat.png"
+  },
+  {
+   "title": "Chaotic Space Mappers of SPLORR!!",
+   "year": 2020,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/alakajam10/",
+   "blurb": "Survey a hundred stars in a cube of space. Set a heading, engage, refuel from what you have charted, and do not trust a star that is a wormhole.",
+   "tags": [
+    "space",
+    "text",
+    "alakajam"
+   ],
+   "img": "img/chaotic-space-mappers.png"
   }
  ]
 }
