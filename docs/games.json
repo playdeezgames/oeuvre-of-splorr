@@ -258,6 +258,19 @@
     "gamepad"
    ],
    "img": "img/jetlag.png"
+  },
+  {
+   "title": "Kordanor's Cabal",
+   "year": 2022,
+   "itch": "https://thegrumpygamedev.itch.io/kordanors-cabal",
+   "play": "https://playdeezgames.github.io/KordanorsCabal/",
+   "blurb": "A turn-based dungeon crawler that looks like it was written for the VIC-20. Take on the Cabal of Kordanor under the church.",
+   "tags": [
+    "dungeon crawler",
+    "retro",
+    "turn-based"
+   ],
+   "img": "img/kordanors-cabal.png"
   }
  ]
 }
