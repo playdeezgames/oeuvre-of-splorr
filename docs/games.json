@@ -310,6 +310,20 @@
     "tech demo"
    ],
    "img": "img/rats-in-the-cellar.png"
+  },
+  {
+   "title": "Key Seeker of SPLORR!!",
+   "year": 2023,
+   "itch": "https://thegrumpygamedev.itch.io/key-seeker-of-splorr",
+   "play": "https://playdeezgames.github.io/key-seeker-of-splorr/",
+   "blurb": "A text RPG built from mazes: find the key to the next place, pull the lever. Ported from VB.NET to Odin for the browser in 2026.",
+   "tags": [
+    "rpg",
+    "text game",
+    "mazes",
+    "ascii jam"
+   ],
+   "img": "img/key-seeker.png"
   }
  ]
 }
