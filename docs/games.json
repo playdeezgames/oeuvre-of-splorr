@@ -329,7 +329,7 @@
    "title": "Click the Yellow Rhombus",
    "year": 2023,
    "itch": "https://thegrumpygamedev.itch.io/click-the-yellow-rhombus",
-   "play": null,
+   "play": "https://playdeezgames.github.io/see-tea-why-are/",
    "blurb": "There is a yellow rhombus. Click it for points, miss it and lose points. Sixty seconds. A TIC-80 cartridge, ported to Odin for the browser in 2026.",
    "tags": [
     "clicker",
