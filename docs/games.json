@@ -337,6 +337,19 @@
     "tic-80 origin"
    ],
    "img": "img/click-the-yellow-rhombus.png"
+  },
+  {
+   "title": "Wonting of SPLORR!!",
+   "year": 2023,
+   "itch": "https://thegrumpygamedev.itch.io/wonting-of-splorr",
+   "play": "https://playdeezgames.github.io/wonting-of-splorr/",
+   "blurb": "Two coins, one town: Crowns buy some things, Jools buy others, and the exchange in the middle trades at a loss. Then a forest maze, a graveyard and a sixteen-floor tower. Ported from VB.NET to Odin for the browser in 2026.",
+   "tags": [
+    "rpg",
+    "roguelike jam",
+    "two currencies"
+   ],
+   "img": "img/wonting.png"
   }
  ]
 }
