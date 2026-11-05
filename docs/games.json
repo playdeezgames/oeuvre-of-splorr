@@ -350,6 +350,47 @@
     "two currencies"
    ],
    "img": "img/wonting.png"
+  },
+  {
+   "title": "Skirmishers of SPLORR!!",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/skirmishers-of-splorr/",
+   "blurb": "A hex-and-counter wargame. Your kobolds, with daggers and slings, against the computer's. Forest blocks line of sight, roads are quick, and a fortified unit is hard to shift.",
+   "tags": [
+    "wargame",
+    "hex",
+    "turn-based",
+    "work in progress"
+   ],
+   "img": "img/skirmishers.png"
+  },
+  {
+   "title": "Krimmis",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/krimmis-game-of-splorr/",
+   "blurb": "Your first day as Assistant to the Regional Manager of Joy, and your name is on the List. Twenty-four days to Krimmis Eve to inform your way off it.",
+   "tags": [
+    "satire",
+    "holiday",
+    "turn-based",
+    "work in progress"
+   ],
+   "img": "img/krimmis.png"
+  },
+  {
+   "title": "Gods of SPLORR!!",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/gods-of-splorr/",
+   "blurb": "A god game. A small tribe forages, crafts, hunts, keeps a fire and tries to last the winter. You have faith and five miracles, and can help or smite.",
+   "tags": [
+    "god game",
+    "simulation",
+    "work in progress"
+   ],
+   "img": "img/gods.png"
   }
  ]
 }
