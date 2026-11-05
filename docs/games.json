@@ -391,6 +391,19 @@
     "work in progress"
    ],
    "img": "img/gods.png"
+  },
+  {
+   "title": "Handies for Cash!",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/handies-for-cash",
+   "play": "https://playdeezgames.github.io/handies-for-cash/",
+   "blurb": "A text metaphor about giving handies in exchange for cash, in a dark alley: solicit, salvage sammiches, wash off the filth, and try not to starve. No explicit content. Ported from VB.NET to Odin for the browser in 2026.",
+   "tags": [
+    "text",
+    "menu",
+    "satire"
+   ],
+   "img": "img/handies-for-cash.png"
   }
  ]
 }
