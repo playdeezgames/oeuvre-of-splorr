@@ -418,6 +418,19 @@
     "maze"
    ],
    "img": "img/clumsy-oaf-of-splorr.png"
+  },
+  {
+   "title": "Chem-Grid",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/chem-grid",
+   "play": "https://playdeezgames.github.io/chem-grid/",
+   "blurb": "Place atoms on an 8x8 grid, match every bond and close molecules for points. Endless mode with online top scores, and twenty puzzle levels.",
+   "tags": [
+    "puzzle",
+    "chemistry",
+    "online scores"
+   ],
+   "img": "img/chem-grid.png"
   }
  ]
 }
