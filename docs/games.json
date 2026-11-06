@@ -404,6 +404,20 @@
     "satire"
    ],
    "img": "img/handies-for-cash.png"
+  },
+  {
+   "title": "Clumsy Oaf of SPLORR!!",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/clumsy-oaf-of-splorr",
+   "play": "https://playdeezgames.github.io/clumsy-oaf-of-splorr/",
+   "blurb": "A turn-based, text-based soulslike for Soulslike Game Jam #3: slimes in a maze show their next move, so dodge, parry, die, respawn at the checkpoint and spend yer cruor on being less clumsy. Ported from VB.NET to Odin for the browser in 2026.",
+   "tags": [
+    "turn-based",
+    "text",
+    "jam",
+    "maze"
+   ],
+   "img": "img/clumsy-oaf-of-splorr.png"
   }
  ]
 }
