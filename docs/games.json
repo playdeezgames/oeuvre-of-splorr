@@ -431,6 +431,20 @@
     "online scores"
    ],
    "img": "img/chem-grid.png"
+  },
+  {
+   "title": "Chores of SPLORR!!",
+   "year": 2025,
+   "itch": "https://thegrumpygamedev.itch.io/chores-of-splorr",
+   "play": "https://playdeezgames.github.io/chores-of-splorr/",
+   "blurb": "You play as a cleaning lady, because that's obviously fun, right? Sweep the dirt into the bin (pile it too high and a dread dust bunny appears), wash 25 dishes, and get 25 shirts through a washer that explodes. Made in Defold for GlamJam 2025, ported to Odin for the browser in 2026.",
+   "tags": [
+    "tiles",
+    "puzzle",
+    "jam",
+    "chores"
+   ],
+   "img": "img/chores-of-splorr.png"
   }
  ]
 }
