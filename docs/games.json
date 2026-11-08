@@ -445,6 +445,19 @@
     "chores"
    ],
    "img": "img/chores-of-splorr.png"
+  },
+  {
+   "title": "Ichthyophiles of SPLORR!!",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/ichthyophiles-of-splorr/",
+   "blurb": "A virtual pet: keep one fish alive on the real clock. Feed it as often as you like, but five days of food in the tank kills it, and so do five days without. You never see how much food is in there, only how fat or skinny it looks. People are bad at taking care of things.",
+   "tags": [
+    "virtual pet",
+    "real time",
+    "text"
+   ],
+   "img": "img/ichthyophiles-of-splorr.png"
   }
  ]
 }
