@@ -122,8 +122,8 @@
    "title": "Gwen's Peregrination II",
    "year": 2026,
    "itch": "https://thegrumpygamedev.itch.io/gwens-peregrination-ii",
-   "play": null,
-   "blurb": "",
+   "play": "https://playdeezgames.github.io/enby-jam-2026/",
+   "blurb": "You are Gwen, and there are 2,000 miles to walk. Pick yer pace, eat snax, forage, wash dishes for jools, sit through the ad breaks, and maybe earn a learner's permit. Made in VB.NET for Nonbinary Game Jam 2026, rebuilt in Odin for the browser.",
    "tags": [
     "text adventure",
     "turn-based",
