@@ -458,6 +458,22 @@
     "text"
    ],
    "img": "img/ichthyophiles-of-splorr.png"
+  },
+  {
+   "title": "Blustery Bulwark of SPLORR!!",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/blustery-bulwark-of-splorr/",
+   "blurb": "A gale flattened yer farm, and His Lordship's herald says His Lordship did it. Climb his windy bulwark, floor by floor, and have a word. A tile-based roguelike in the spirit of Castle of the Winds. Early days: three generated floors to walk so far.",
+   "tags": [
+    "roguelike",
+    "dungeon crawler",
+    "tiles",
+    "turn-based",
+    "touch friendly",
+    "work in progress"
+   ],
+   "img": "img/blustery-bulwark-of-splorr.png"
   }
  ]
 }
