@@ -474,6 +474,23 @@
     "work in progress"
    ],
    "img": "img/blustery-bulwark-of-splorr.png"
+  },
+  {
+   "title": "Cluster Conquerors of SPLORR!!",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/cluster-conquerors-of-splorr/",
+   "blurb": "Conquer the cluster. Everybody hates you, and the Homeowners' Association has been notified. A turn-based space strategy game in the spirit of the original Master of Orion. Early days: a generated cluster of stars to look at so far.",
+   "tags": [
+    "strategy",
+    "space",
+    "4x",
+    "satire",
+    "turn-based",
+    "touch friendly",
+    "work in progress"
+   ],
+   "img": "img/cluster-conquerors-of-splorr.png"
   }
  ]
 }
