@@ -491,6 +491,22 @@
     "work in progress"
    ],
    "img": "img/cluster-conquerors-of-splorr.png"
+  },
+  {
+   "title": "Bush Master of SPLORR!!",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/bush-master-of-splorr/",
+   "blurb": "One fenced plot, one berry bush, one basket. Pick berries, drop 'em in, get jools. The bush grows them back. Early days: the first plot.",
+   "tags": [
+    "real time",
+    "wholesome",
+    "tiles",
+    "touch friendly",
+    "gamepad",
+    "work in progress"
+   ],
+   "img": "img/bush-master-of-splorr.png"
   }
  ]
 }
