@@ -58,12 +58,13 @@
    "title": "Wandermaze",
    "year": 2023,
    "itch": "https://thegrumpygamedev.itch.io/wandermaze",
-   "play": null,
-   "blurb": "",
+   "play": "https://playdeezgames.github.io/wandermaze/",
+   "blurb": "The maze closes behind you. Grab 16 gold, use ice to cross fire, and remember every square you leave turns to fire.",
    "tags": [
     "maze",
     "puzzle",
-    "tic-80 origin"
+    "tic-80 origin",
+    "touch friendly"
    ],
    "img": "img/wandermaze.png"
   },
