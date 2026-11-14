@@ -508,6 +508,24 @@
     "work in progress"
    ],
    "img": "img/bush-master-of-splorr.png"
+  },
+  {
+   "title": "Counting Sheep of SPLORR!!",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/dream-stage-of-splorr/",
+   "blurb": "Count a million card sheep to fall asleep. Send them over the fence into a Connect Four fold, score the lines like cribbage with the moon as the cut, sink through the stages of sleep, buy sheepdogs. Made for Ultimate AI-Powered Game Jam #7.",
+   "tags": [
+    "incremental",
+    "idle",
+    "card game",
+    "board game",
+    "jam",
+    "real time",
+    "touch friendly",
+    "gamepad"
+   ],
+   "img": "img/counting-sheep-of-splorr.png"
   }
  ]
 }
