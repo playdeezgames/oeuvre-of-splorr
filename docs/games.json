@@ -526,6 +526,22 @@
     "gamepad"
    ],
    "img": "img/counting-sheep-of-splorr.png"
+  },
+  {
+   "title": "Codebusters of SPLORR!!",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/codebusters-of-splorr/",
+   "blurb": "Farkle, played against a hidden Mastermind code. Roll five dice, arrange them in the slots, check. A black peg locks the die and scores; no new black peg busts the turn. Bank, or push yer luck. An experiment.",
+   "tags": [
+    "dice",
+    "puzzle",
+    "hidden information",
+    "turn-based",
+    "touch friendly",
+    "work in progress"
+   ],
+   "img": "img/codebusters-of-splorr.png"
   }
  ]
 }
