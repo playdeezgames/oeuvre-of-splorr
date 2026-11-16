@@ -619,6 +619,23 @@
     "work in progress"
    ],
    "img": "img/softside-storybook.png"
+  },
+  {
+   "title": "Composters of SPLORR!!",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/solarpunk-lucky-cat-of-splorr/",
+   "blurb": "Run the compost bin at the end of a grey street. Steer the neighbours' scraps so greens rot against browns, turn the heap when it sulks, and spend the soil on solar roofs, vines and rooftop farms until Ash Street is green. Somewhere, a lucky cat. Made for Jamference: AI Game Jam Hack 4.",
+   "tags": [
+    "puzzle",
+    "incremental",
+    "jam",
+    "real time",
+    "wholesome",
+    "touch friendly",
+    "gamepad"
+   ],
+   "img": "img/composters-of-splorr.png"
   }
  ]
 }
