@@ -542,6 +542,83 @@
     "work in progress"
    ],
    "img": "img/codebusters-of-splorr.png"
+  },
+  {
+   "title": "Melt Down",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/melt-down/index.html",
+   "blurb": "Keep a failing nuclear plant from melting down: nine meters, sixteen disasters, and every command helps one thing and hurts another. After Michael Winter's 1979 type-in from SoftSide. A prototype.",
+   "tags": [
+    "simulation",
+    "real time",
+    "touch friendly",
+    "retro",
+    "work in progress"
+   ],
+   "img": "img/softside-melt-down.png"
+  },
+  {
+   "title": "Shooting Gallery",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/shooting-gallery/index.html",
+   "blurb": "Twenty shots at a carnival gallery: stars, clowns, pipes, ducks, and now and then an arrow worth a hundred. After Frank B. Rowlett, Jr.'s 1979 type-in from SoftSide. A prototype.",
+   "tags": [
+    "arcade",
+    "real time",
+    "shooter",
+    "touch friendly",
+    "retro",
+    "work in progress"
+   ],
+   "img": "img/softside-shooting-gallery.png"
+  },
+  {
+   "title": "Cryptogram",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/cryptogram/index.html",
+   "blurb": "Crack a saying in a letter-substitution code, one letter at a time, or type yer own for a friend. After Rik Pierce's 1979 type-in from SoftSide. A prototype.",
+   "tags": [
+    "puzzle",
+    "text",
+    "touch friendly",
+    "retro",
+    "work in progress"
+   ],
+   "img": "img/softside-cryptogram.png"
+  },
+  {
+   "title": "Morse Code Tutor",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/morse-code-tutor/index.html",
+   "blurb": "Learn Morse code by ear: two new characters a level, faster code, three lives, streaks multiply the score. Plus a keyer and a buddy mode. After Donald E. Smith's 1979 type-in from SoftSide. A prototype.",
+   "tags": [
+    "educational",
+    "audio",
+    "touch friendly",
+    "retro",
+    "work in progress"
+   ],
+   "img": "img/softside-morse-code-tutor.png"
+  },
+  {
+   "title": "Storybook",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/storybook/index.html",
+   "blurb": "A toy, not a metaphor: answer ten questions and it tells a picture story starring the child reading it. After Otto Hansen's 1979 type-in from SoftSide. A prototype.",
+   "tags": [
+    "toy",
+    "kids",
+    "story",
+    "touch friendly",
+    "retro",
+    "work in progress"
+   ],
+   "img": "img/softside-storybook.png"
   }
  ]
 }
