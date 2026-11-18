@@ -621,6 +621,84 @@
    "img": "img/softside-storybook.png"
   },
   {
+   "title": "Pillbox",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/pillbox/index.html",
+   "blurb": "Two pillboxes, one mountain: set the barrel angle and muzzle velocity and shell the other side, first to five hits. Against the computer or a friend. After Gene Perkins's 1978 type-in from SoftSide. A prototype.",
+   "tags": [
+    "strategy",
+    "artillery",
+    "turn-based",
+    "two player",
+    "touch friendly",
+    "retro",
+    "work in progress"
+   ],
+   "img": "img/softside-pillbox.png"
+  },
+  {
+   "title": "Gunnery Mate",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/gunnery-mate/index.html",
+   "blurb": "Work the batteries of a battle station: raiders drift over the gun deck, and you fire when one is centred on a battery. Twenty-one shots and a rank at the end. After the 1978 type-in \"Death Star\" from SoftSide. A prototype.",
+   "tags": [
+    "arcade",
+    "real time",
+    "shooter",
+    "reaction",
+    "touch friendly",
+    "retro",
+    "work in progress"
+   ],
+   "img": "img/softside-gunnery-mate.png"
+  },
+  {
+   "title": "State Capital Quiz",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/state-capital-quiz/index.html",
+   "blurb": "Fifty capitals, three choices each, against the clock: streaks multiply the score, and a miss comes back later and costs an apple. Or play it the other way round. After the 1978 type-in from SoftSide. A prototype.",
+   "tags": [
+    "educational",
+    "quiz",
+    "touch friendly",
+    "retro",
+    "work in progress"
+   ],
+   "img": "img/softside-state-capital-quiz.png"
+  },
+  {
+   "title": "Cribbage",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/cribbage/index.html",
+   "blurb": "Two-handed cribbage against the computer, to 121: throw to the kitty, peg to 31, count fifteens, pairs, runs, flushes and his nobs, on a peg board. After the 1978 type-in from SoftSide. A prototype.",
+   "tags": [
+    "card game",
+    "turn-based",
+    "touch friendly",
+    "retro",
+    "work in progress"
+   ],
+   "img": "img/softside-cribbage.png"
+  },
+  {
+   "title": "Calculator",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/calculator/index.html",
+   "blurb": "A tool, not a metaphor: a desk calculator that carries a running total and prints a paper tape, with the original's one-key functions and memory. After the 1978 type-in from SoftSide. A prototype.",
+   "tags": [
+    "tool",
+    "touch friendly",
+    "retro",
+    "work in progress"
+   ],
+   "img": "img/softside-calculator.png"
+  },
+  {
    "title": "Composters of SPLORR!!",
    "year": 2026,
    "itch": null,
