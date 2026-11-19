@@ -714,6 +714,22 @@
     "gamepad"
    ],
    "img": "img/composters-of-splorr.png"
+  },
+  {
+   "title": "Pea Soup and Pancakes",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/pea-soup-and-pancakes/",
+   "blurb": "Chess crossed with Snake at Thursday lunch. You are a stack of pancakes whose head moves like the last pea-soup chess piece it ate; your trail blocks your own slides, and the soup bites back one piece a turn. Wrap your stack round the soup king and eat it to clear the bowl.",
+   "tags": [
+    "board game",
+    "puzzle",
+    "turn-based",
+    "touch friendly",
+    "gamepad",
+    "work in progress"
+   ],
+   "img": "img/pea-soup-and-pancakes.png"
   }
  ]
 }
