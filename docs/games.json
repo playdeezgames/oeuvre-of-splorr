@@ -187,8 +187,8 @@
    "title": "Fortune Hunter of SPLORR!!",
    "year": 2021,
    "itch": "https://thegrumpygamedev.itch.io/fortune-hunter-of-splorr",
-   "play": null,
-   "blurb": "",
+   "play": "https://playdeezgames.github.io/FortuneHunter/",
+   "blurb": "Seeking fortune! And fame! A dark maze, a hundred zombies, locked doors and diamonds. Walk into a zombie to hit it, walk into a lock to open it.",
    "tags": [
     "roguelike",
     "maze",
