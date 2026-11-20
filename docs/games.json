@@ -730,6 +730,23 @@
     "work in progress"
    ],
    "img": "img/pea-soup-and-pancakes.png"
+  },
+  {
+   "title": "Space Peddlers of SPLORR!!",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/space-peddlers-of-splorr/",
+   "blurb": "A faithful port of Pieter Spronck's Space Trader 1.2.2, the classic Palm OS trading game, to the browser. Buy low, sell high, warp between systems, and deal with pirates, police and traders on the way. The original C, run through a translator, with Palm OS rebuilt underneath it. Placeholder art for now.",
+   "tags": [
+    "space",
+    "trading",
+    "simulation",
+    "turn-based",
+    "retro",
+    "touch friendly",
+    "work in progress"
+   ],
+   "img": "img/space-peddlers-of-splorr.png"
   }
  ]
 }
