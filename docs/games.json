@@ -97,7 +97,7 @@
    "title": "Robokitteh of SPLORR!!",
    "year": 2026,
    "itch": "https://thegrumpygamedev.itch.io/robokitteh-of-splorr",
-   "play": null,
+   "play": "https://playdeezgames.github.io/robokitteh-of-splorr/",
    "blurb": "",
    "tags": [
     "turn-based",
@@ -162,7 +162,7 @@
    "title": "Murder Hobo of SPLORR!!",
    "year": 2024,
    "itch": "https://thegrumpygamedev.itch.io/murder-hobo-of-splorr",
-   "play": null,
+   "play": "https://playdeezgames.github.io/murder-hobo-of-splorr/",
    "blurb": "",
    "tags": [
     "idle",
@@ -174,7 +174,7 @@
    "title": "Feretory of SPLORR!!",
    "year": 2026,
    "itch": "https://thegrumpygamedev.itch.io/feretory-of-splorr",
-   "play": null,
+   "play": "https://playdeezgames.github.io/tggd-rtfn2/",
    "blurb": "",
    "tags": [
     "roguelike",
@@ -200,7 +200,7 @@
    "title": "Shark Attackers of SPLORR!!",
    "year": 2025,
    "itch": "https://thegrumpygamedev.itch.io/shark-attackers-of-splorr",
-   "play": null,
+   "play": "https://playdeezgames.github.io/shark-attackers-of-splorr/",
    "blurb": "",
    "tags": [
     "text adventure",
@@ -213,7 +213,7 @@
    "title": "Check Yer Butthole",
    "year": 2025,
    "itch": "https://thegrumpygamedev.itch.io/check-yer-btthole",
-   "play": null,
+   "play": "https://playdeezgames.github.io/check-yer-butthole/",
    "blurb": "",
    "tags": [
     "idle",
@@ -761,6 +761,32 @@
     "touch friendly"
    ],
    "img": "img/hamquest.png"
+  },
+  {
+   "title": "The Blue Room of SPLORR!!",
+   "year": 2025,
+   "itch": "https://thegrumpygamedev.itch.io/tggd-lrj2025",
+   "play": "https://playdeezgames.github.io/tggd-lrj2025/",
+   "blurb": "A tiny 64 by 64 maze crawl: eat blueberries, find keys, mind the moon people.",
+   "tags": [
+    "maze",
+    "turn-based",
+    "jam",
+    "retro"
+   ],
+   "img": "img/blue-room-of-splorr.png"
+  },
+  {
+   "title": "Tiny Basic",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/tiny-basic-odinwasm",
+   "play": "https://playdeezgames.github.io/Tiny-Basic/",
+   "blurb": "A Tiny Basic interpreter on a tiny four-color screen. Type a program, run it, draw on it, make music with it.",
+   "tags": [
+    "tool",
+    "retro"
+   ],
+   "img": "img/tiny-basic.png"
   }
  ]
 }
