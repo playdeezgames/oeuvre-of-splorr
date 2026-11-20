@@ -747,6 +747,20 @@
     "work in progress"
    ],
    "img": "img/space-peddlers-of-splorr.png"
+  },
+  {
+   "title": "HamQuest of SPLORR!!",
+   "year": 2011,
+   "itch": "https://thegrumpygamedev.itch.io/hamquest-of-splorr",
+   "play": "https://playdeezgames.github.io/hamquest/",
+   "blurb": "A brutal little maze crawl. Collect the sixteen pieces of the MegaHam, find the Rainbow Key, and get out alive. There is a tutorial, and it will not let you die.",
+   "tags": [
+    "roguelike",
+    "maze",
+    "turn-based",
+    "touch friendly"
+   ],
+   "img": "img/hamquest.png"
   }
  ]
 }
