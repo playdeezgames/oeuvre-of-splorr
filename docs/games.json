@@ -699,6 +699,68 @@
    "img": "img/softside-calculator.png"
   },
   {
+   "title": "Troll's Gold",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/trolls-gold/index.html",
+   "blurb": "Steal the gold from the deepest room of a troll's cave and get back out, while different doors open every turn and the troll stalks you, stopping every third turn to catch his breath. After George Blank's 1978 type-in from SoftSide. A prototype.",
+   "tags": [
+    "maze",
+    "strategy",
+    "turn-based",
+    "touch friendly",
+    "retro",
+    "work in progress"
+   ],
+   "img": "img/softside-trolls-gold.png"
+  },
+  {
+   "title": "End Zone",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/end-zone/index.html",
+   "blurb": "Four quarters of football: the offense calls one of eleven plays in secret, the defense one of ten alignments, and the match-up decides the yardage. Watch the clock. Two players or against the computer. After Roger Robitaille's 1978 type-in from SoftSide. A prototype.",
+   "tags": [
+    "sports",
+    "strategy",
+    "turn-based",
+    "two player",
+    "touch friendly",
+    "retro",
+    "work in progress"
+   ],
+   "img": "img/softside-end-zone.png"
+  },
+  {
+   "title": "Shopping List",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/shopping-list/index.html",
+   "blurb": "A tool, not a metaphor: pick groceries aisle by aisle from 150 items or add yer own, then tick them off in the store. The list stays in yer browser. After the 1978 type-in from SoftSide. A prototype.",
+   "tags": [
+    "tool",
+    "touch friendly",
+    "retro",
+    "work in progress"
+   ],
+   "img": "img/softside-shopping-list.png"
+  },
+  {
+   "title": "Octal to Hex",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/octal-to-hex/index.html",
+   "blurb": "A tool, not a metaphor: type a byte in octal and see it in hex, decimal and bits, and as the TRS-80 character or block graphic it makes, with a tape of what you entered. After Lance Micklus's 1978 type-in from SoftSide. A prototype.",
+   "tags": [
+    "tool",
+    "educational",
+    "touch friendly",
+    "retro",
+    "work in progress"
+   ],
+   "img": "img/softside-octal-to-hex.png"
+  },
+  {
    "title": "Composters of SPLORR!!",
    "year": 2026,
    "itch": null,
