@@ -939,6 +939,19 @@
     "turn-based"
    ],
    "img": "img/tricksters-of-splorr.png"
+  },
+  {
+   "title": "Investors of SPLORR!!",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/investors-of-splorr",
+   "play": "https://playdeezgames.github.io/investors-of-splorr/",
+   "blurb": "A dungeon of seven rooms where a shopkeeper frames every charge as an opportunity, and never once says \"price\". 1-Bit Jam 15.",
+   "tags": [
+    "jam",
+    "dungeon",
+    "turn-based"
+   ],
+   "img": "img/investors-of-splorr.png"
   }
  ]
 }
