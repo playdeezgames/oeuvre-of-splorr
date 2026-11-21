@@ -33,7 +33,7 @@
    "title": "Table Turners of SPLORR!!",
    "year": 2026,
    "itch": "https://thegrumpygamedev.itch.io/table-turners-of-splorr",
-   "play": null,
+   "play": "https://playdeezgames.github.io/tggd-nwgjeif/",
    "blurb": "",
    "tags": [
     "puzzle",
@@ -45,7 +45,7 @@
    "title": "The End of the World Was Nice",
    "year": 2026,
    "itch": "https://thegrumpygamedev.itch.io/the-end-of-the-world-was-nice",
-   "play": null,
+   "play": "https://playdeezgames.github.io/tggd-20seconds/",
    "blurb": "",
    "tags": [
     "wholesome",
@@ -72,7 +72,7 @@
    "title": "T!ts UUp!!",
    "year": 2023,
    "itch": "https://thegrumpygamedev.itch.io/tits-uup",
-   "play": null,
+   "play": "https://playdeezgames.github.io/tits-up/",
    "blurb": "",
    "tags": [
     "roguelike",
@@ -84,7 +84,7 @@
    "title": "Turn Left at the Cow",
    "year": 2026,
    "itch": "https://thegrumpygamedev.itch.io/turn-left-at-the-cow",
-   "play": null,
+   "play": "https://playdeezgames.github.io/tggd-twgj2026/",
    "blurb": "",
    "tags": [
     "driving",
@@ -137,7 +137,7 @@
    "title": "Beaver Hunters of SPLORR!!",
    "year": 2026,
    "itch": "https://thegrumpygamedev.itch.io/beaver-hunters-of-splorr",
-   "play": null,
+   "play": "https://playdeezgames.github.io/beaver-hunters-of-splorr/",
    "blurb": "",
    "tags": [
     "incremental",
@@ -149,7 +149,7 @@
    "title": "Freedom Haters of SPLORR!!",
    "year": 2023,
    "itch": "https://thegrumpygamedev.itch.io/freedom-haters-of-splorr",
-   "play": null,
+   "play": "https://playdeezgames.github.io/freedom-haters-of-splorr/",
    "blurb": "",
    "tags": [
     "satire",
@@ -222,10 +222,10 @@
    ]
   },
   {
-   "title": "How Am I Still Waiting for the Bus?",
+   "title": "Bus Anticipator of SPLORR!!",
    "year": 2024,
    "itch": "https://thegrumpygamedev.itch.io/how-am-i-still-waiting-for-the-bus",
-   "play": null,
+   "play": "https://playdeezgames.github.io/TGGD_AGBIC24/",
    "blurb": "",
    "tags": [
     "turn-based",
@@ -900,6 +900,45 @@
     "text"
    ],
    "img": "img/mythological-caffeinator.png"
+  },
+  {
+   "title": "Maze Explorer of SPLORR!!",
+   "year": 2015,
+   "itch": "https://thegrumpygamedev.itch.io/maze-explorer-of-splorr",
+   "play": "https://playdeezgames.github.io/CS2FSMazeExplorer/",
+   "blurb": "A strict, timed maze crawl: locks and keys, monsters, a clock. An exact port of an old F# sample game.",
+   "tags": [
+    "maze",
+    "turn-based",
+    "retro"
+   ],
+   "img": "img/maze-explorer-of-splorr.png"
+  },
+  {
+   "title": "Torch Passers of SPLORR!!",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/torch-passers-of-splorr",
+   "play": "https://playdeezgames.github.io/tggd-aij5/",
+   "blurb": "A dynasty, one torch, and the few things that survive being handed down.",
+   "tags": [
+    "jam",
+    "menu",
+    "text"
+   ],
+   "img": "img/torch-passers-of-splorr.png"
+  },
+  {
+   "title": "Tricksters of SPLORR!!",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/tricksters-of-splorr",
+   "play": "https://playdeezgames.github.io/tricksters-of-splorr/",
+   "blurb": "A small stage show of sleight and nerve: toss a coin, lift a key, turn a guard's head, borrow a hat. Ten puzzles, no fighting.",
+   "tags": [
+    "jam",
+    "puzzle",
+    "turn-based"
+   ],
+   "img": "img/tricksters-of-splorr.png"
   }
  ]
 }
