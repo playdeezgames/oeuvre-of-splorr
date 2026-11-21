@@ -787,6 +787,57 @@
     "retro"
    ],
    "img": "img/tiny-basic.png"
+  },
+  {
+   "title": "Sticky Buns of SPLORR!!",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/sticky-buns-of-splorr",
+   "play": "https://playdeezgames.github.io/sticky-buns-of-splorr/",
+   "blurb": "A knight, an 8 by 8 board, and a constant need for sticky buns. Eat. Fight pawns. Check yer butthole.",
+   "tags": [
+    "turn-based",
+    "roguelike",
+    "retro"
+   ],
+   "img": "img/sticky-buns-of-splorr.png"
+  },
+  {
+   "title": "Stickier Buns of SPLORR!!",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/stickier-buns-of-splorr",
+   "play": "https://playdeezgames.github.io/stickier-buns-of-splorr/",
+   "blurb": "A knight, a chessboard, and a dangerous appetite for stickier buns.",
+   "tags": [
+    "turn-based",
+    "roguelike"
+   ],
+   "img": "img/stickier-buns-of-splorr.png"
+  },
+  {
+   "title": "Bagel Quest!",
+   "year": 2023,
+   "itch": "https://thegrumpygamedev.itch.io/bagel-quest",
+   "play": "https://playdeezgames.github.io/tggd-agbic2023/",
+   "blurb": "Forage, craft and cook yer way to a bagel. A tiny survival quest from A Game By Its Cover 2023, now in yer browser.",
+   "tags": [
+    "jam",
+    "rpg",
+    "retro"
+   ],
+   "img": "img/bagel-quest.png"
+  },
+  {
+   "title": "Mythological Caffeinator of SPLORR!!",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/mythological-caffeinator-of-splorr",
+   "play": "https://playdeezgames.github.io/mythological-caffeinator-of-splorr/",
+   "blurb": "Fill the cup. Drink the coffee. Mind yer bladder, the filth and the toxicity. A Coffee Jam 2026 entry.",
+   "tags": [
+    "jam",
+    "clicker",
+    "text"
+   ],
+   "img": "img/mythological-caffeinator.png"
   }
  ]
 }
