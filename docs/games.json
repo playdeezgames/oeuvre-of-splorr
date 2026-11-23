@@ -836,6 +836,21 @@
    "img": "img/pea-soup-and-pancakes.png"
   },
   {
+   "title": "Blue Balls of SPLORR!!",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/blue-balls-of-splorr/",
+   "blurb": "Keep them up. Don't let go. Tap the blue balls to bop them back into the air, away from where you hit them. Another one drops in every few seconds, and sooner each time. When one touches the floor, it's over. There is no win, only how long you lasted.",
+   "tags": [
+    "arcade",
+    "real time",
+    "reaction",
+    "touch friendly",
+    "work in progress"
+   ],
+   "img": "img/blue-balls-of-splorr.png"
+  },
+  {
    "title": "Space Peddlers of SPLORR!!",
    "year": 2026,
    "itch": null,
