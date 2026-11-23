@@ -134,6 +134,20 @@
    "img": "img/gwens-peregrination-ii.png"
   },
   {
+   "title": "Gwen's Peregrination",
+   "year": 2023,
+   "itch": "https://thegrumpygamedev.itch.io/gwens-peregrination",
+   "play": "https://playdeezgames.github.io/GwensGame/",
+   "blurb": "The first Gwen walk: 2,000 miles in an old DOS text screen. Pick yer pace, eat snax, forage where the ground is easy, gamble on shortcuts, and don't starve. Made in VB.NET for DOS Games June 2023 Jam, rebuilt in Odin for the browser.",
+   "tags": [
+    "text adventure",
+    "turn-based",
+    "journey",
+    "jam"
+   ],
+   "img": "img/gwens-peregrination.png"
+  },
+  {
    "title": "Beaver Hunters of SPLORR!!",
    "year": 2026,
    "itch": "https://thegrumpygamedev.itch.io/beaver-hunters-of-splorr",
