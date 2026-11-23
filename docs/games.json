@@ -1130,6 +1130,78 @@
     "1978"
    ],
    "img": "img/softside-chess-clock.png"
+  },
+  {
+   "title": "'Round the Horn",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/round-the-horn/index.html",
+   "blurb": "Race a clipper from New York round Cape Horn to San Francisco in 1852: set a course each week, tack against the wind, ride the currents and the trades, keep off the lee shore and the ice, and try to beat the Flying Cloud's 89 days 21 hours. One to three ships, friends or computer captains. After Rev. George Blank's 1978 type-in from SoftSide. A prototype.",
+   "tags": [
+    "simulation",
+    "strategy",
+    "turn-based",
+    "touch friendly",
+    "retro",
+    "work in progress",
+    "softside",
+    "january",
+    "1979"
+   ],
+   "img": "img/softside-round-the-horn.png"
+  },
+  {
+   "title": "Ten Pin Bowling",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/ten-pin-bowling/index.html",
+   "blurb": "Wait for the ball to sweep where you want it, then throw it straight or break it into the pocket, because a straight ball never strikes. Ten frames on a full score sheet, the 7-10 split, one to four bowlers, friends or the computer. After Frank B. Rowlett, Jr.'s 1978 type-in from SoftSide. A prototype.",
+   "tags": [
+    "sports",
+    "real time",
+    "touch friendly",
+    "retro",
+    "work in progress",
+    "softside",
+    "january",
+    "1979"
+   ],
+   "img": "img/softside-ten-pin-bowling.png"
+  },
+  {
+   "title": "Kiddy Slot",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/kiddy-slot/index.html",
+   "blurb": "A toy, not a metaphor, for small children: pull the lever on three reels of suns, smiles and lollipops. Three alike win five pretend ZZOOPPS, and when they run out there are ten more. After David Boike's 1978 type-in from SoftSide. A prototype.",
+   "tags": [
+    "toy",
+    "kids",
+    "touch friendly",
+    "retro",
+    "work in progress",
+    "softside",
+    "january",
+    "1979"
+   ],
+   "img": "img/softside-kiddy-slot.png"
+  },
+  {
+   "title": "Comput-A-Sketch",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/comput-a-sketch/index.html",
+   "blurb": "A toy, not a metaphor: a sketching pad drawn with eight direction keys (or the arrows, or a finger), four more keys to move the stylus without drawing, and a shake to clear it. Yer sketch is kept. After Albert C. Blackwell, Jr.'s 1978 type-in from SoftSide. A prototype.",
+   "tags": [
+    "toy",
+    "touch friendly",
+    "retro",
+    "work in progress",
+    "softside",
+    "january",
+    "1979"
+   ],
+   "img": "img/softside-comput-a-sketch.png"
   }
  ]
 }
