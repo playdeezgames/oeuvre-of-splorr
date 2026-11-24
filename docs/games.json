@@ -510,16 +510,15 @@
   {
    "title": "Bush Master of SPLORR!!",
    "year": 2026,
-   "itch": null,
+   "itch": "https://thegrumpygamedev.itch.io/bush-master-of-splorr",
    "play": "https://playdeezgames.github.io/bush-master-of-splorr/",
-   "blurb": "One fenced plot, one berry bush, one basket. Pick berries, drop 'em in, get jools. The bush grows them back. Early days: the first plot.",
+   "blurb": "One fenced plot, one berry bush, one basket and a million-jool mortgage. Pick berries for jools, buy bigger hands, more bushes, solar ports and robots, and sleep while the interest ticks up. Pay it off and the plot is yers.",
    "tags": [
     "real time",
     "wholesome",
     "tiles",
     "touch friendly",
-    "gamepad",
-    "work in progress"
+    "gamepad"
    ],
    "img": "img/bush-master-of-splorr.png"
   },
