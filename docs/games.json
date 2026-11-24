@@ -3,6 +3,21 @@
  "github": "https://github.com/playdeezgames",
  "games": [
   {
+   "title": "Lore Dumpster of SPLORR!!",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/lore-dumpster-of-splorr/",
+   "blurb": "A turn-based puzzle adventure in four colors and 128 by 96 pixels, like a TRS-80 Color Computer in PMODE 1. Keys, doors, blocks, pits, deadly traps on the turn counter, monsters, and far too much lore. Three levels so far; it grows on stream, and your suggestions shape the next build.",
+   "tags": [
+    "puzzle",
+    "adventure",
+    "turn-based",
+    "retro",
+    "work in progress"
+   ],
+   "img": "img/lore-dumpster-of-splorr.png"
+  },
+  {
    "title": "Oh No, Thello!",
    "year": 2026,
    "itch": null,
