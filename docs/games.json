@@ -3,6 +3,20 @@
  "github": "https://github.com/playdeezgames",
  "games": [
   {
+   "title": "Farmhands of SPLORR!!",
+   "year": 2026,
+   "itch": null,
+   "play": "https://playdeezgames.github.io/farmhands-of-splorr/",
+   "blurb": "A turn-based farm on an 8 by 8 field. Plant crops, hire farmhands and keep them fed: a fed farmhand makes every crop around them grow twice as fast. Harvest into the barn, then sell or keep crops back as seed. A demo.",
+   "tags": [
+    "farming",
+    "strategy",
+    "turn-based",
+    "demo"
+   ],
+   "img": "img/farmhands-of-splorr.png"
+  },
+  {
    "title": "Lore Dumpster of SPLORR!!",
    "year": 2026,
    "itch": null,
