@@ -303,6 +303,20 @@
    "img": "img/kordanors-cabal.png"
   },
   {
+   "title": "Larrikin of SPLORR!! ][ - Kordanor's Catacomb",
+   "year": 2023,
+   "itch": "https://thegrumpygamedev.itch.io/kordanors-catacomb",
+   "play": "https://playdeezgames.github.io/KordanorsCatacomb/",
+   "blurb": "A first-person crawl through a catacomb of a hundred Blobs, where the dice only count on a six. Find the tea, the match, the sponge and the dew, and make Dew a Lit Tea. Made in VB.NET for Dungeon Crawler Jam 2023, rebuilt in Odin for the browser.",
+   "tags": [
+    "dungeon crawler",
+    "first-person",
+    "turn-based",
+    "jam"
+   ],
+   "img": "img/kordanors-catacomb.png"
+  },
+  {
    "title": "Nursing Home Cat of SPLORR!!",
    "year": 2026,
    "itch": null,
