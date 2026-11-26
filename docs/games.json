@@ -1244,6 +1244,118 @@
     "1979"
    ],
    "img": "img/softside-comput-a-sketch.png"
+  },
+  {
+   "title": "Prize Board",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/softside-prototypes",
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/prize-board/index.html",
+   "blurb": "Thirty-two squares hide prizes in pairs: find a pair to win the prize and a guess at the secret number, and guess it to keep yer winnings. Against a friend or a computer contestant. After Lance Micklus's 1979 type-in \"Concentration\" from SoftSide. A prototype.",
+   "tags": [
+    "memory",
+    "puzzle",
+    "turn-based",
+    "two player",
+    "touch friendly",
+    "retro",
+    "work in progress",
+    "softside",
+    "february",
+    "1979"
+   ],
+   "img": "img/softside-prize-board.png"
+  },
+  {
+   "title": "Elements Quiz",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/softside-prototypes",
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/elements-quiz/index.html",
+   "blurb": "All 118 chemical elements by name, symbol and number, against the clock: three flasks, streaks, and a periodic table to study. After Roger W. Robitaille, Sr.'s 1979 type-in from SoftSide. A prototype.",
+   "tags": [
+    "educational",
+    "quiz",
+    "touch friendly",
+    "retro",
+    "work in progress",
+    "softside",
+    "february",
+    "1979"
+   ],
+   "img": "img/softside-elements-quiz.png"
+  },
+  {
+   "title": "Dive Bomb",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/softside-prototypes",
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/dive-bomb/index.html",
+   "blurb": "A dive bomber against a ship whose anti-aircraft gun jams after three shots: dive, level off, drop, or man the gun and lead the plane. First to five. Fly either side against the computer, or two at one keyboard. After Rev. George Blank's 1979 type-in from SoftSide. A prototype.",
+   "tags": [
+    "arcade",
+    "real time",
+    "two player",
+    "touch friendly",
+    "retro",
+    "work in progress",
+    "softside",
+    "march",
+    "1979"
+   ],
+   "img": "img/softside-dive-bomb.png"
+  },
+  {
+   "title": "Jig Saw",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/softside-prototypes",
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/jig-saw/index.html",
+   "blurb": "Six pieces hide on a four by four board. The computer names one; find a square it covers in as few tries as you can, Genius to Try Again. One or two players. After David Bohlke's 1979 type-in from SoftSide. A prototype.",
+   "tags": [
+    "puzzle",
+    "deduction",
+    "turn-based",
+    "two player",
+    "touch friendly",
+    "retro",
+    "work in progress",
+    "softside",
+    "march",
+    "1979"
+   ],
+   "img": "img/softside-jig-saw.png"
+  },
+  {
+   "title": "Tarot",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/softside-prototypes",
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/tarot/index.html",
+   "blurb": "A toy, not a metaphor: ask a yes-or-no question and deal the five-card spread from a 78-card deck; right side up says yes, upside down no. For fun only. After Frank B. Rowlett, Jr.'s 1979 type-in from SoftSide. A prototype.",
+   "tags": [
+    "toy",
+    "cards",
+    "touch friendly",
+    "retro",
+    "work in progress",
+    "softside",
+    "march",
+    "1979"
+   ],
+   "img": "img/softside-tarot.png"
+  },
+  {
+   "title": "Fog Index",
+   "year": 2026,
+   "itch": "https://thegrumpygamedev.itch.io/softside-prototypes",
+   "play": "https://playdeezgames.github.io/prototypes-of-splorr/fog-index/index.html",
+   "blurb": "A tool, not a metaphor: type or paste yer writing and it counts the sentences, words and long words, and gives the school grade a reader needs to follow it. Or count by hand, the 1979 way. After Rev. George Blank's 1979 type-in from SoftSide. A prototype.",
+   "tags": [
+    "tool",
+    "writing",
+    "retro",
+    "work in progress",
+    "softside",
+    "march",
+    "1979"
+   ],
+   "img": "img/softside-fog-index.png"
   }
  ]
 }
