@@ -317,6 +317,20 @@
    "img": "img/kordanors-cabal.png"
   },
   {
+   "title": "Larrikin of SPLORR!!",
+   "year": 2022,
+   "itch": "https://thegrumpygamedev.itch.io/larrikin-of-splorr",
+   "play": "https://playdeezgames.github.io/larrikin-of-splorr/",
+   "blurb": "Yer the Larrikin, and yer job is to find the Macguffin. A first-person crawl through a fourteen-by-fourteen maze of goblins, orcs, skeletons and chaos warriors, with weapons that wear out, potions, and no protection from overhealing. Made as a VB.NET terminal game for Dungeon Crawler Jam 2022, rebuilt in Odin for the browser.",
+   "tags": [
+    "dungeon crawler",
+    "first-person",
+    "turn-based",
+    "jam"
+   ],
+   "img": "img/larrikin-of-splorr.png"
+  },
+  {
    "title": "Larrikin of SPLORR!! ][ - Kordanor's Catacomb",
    "year": 2023,
    "itch": "https://thegrumpygamedev.itch.io/kordanors-catacomb",
